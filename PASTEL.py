@@ -1,4 +1,4 @@
-import matplotlib as plot
+import matplotlib.pyplot as plot
 
 #GRAFICO DE PASTEL 1
 LUGARES = ["ANCASH", "APURIMAC", "CALLAO", "HUANCAVELICA", "HUANUCO", "ICA", "JUNIN", "LIMA", "PASCO"]
